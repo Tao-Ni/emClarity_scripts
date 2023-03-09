@@ -2,9 +2,7 @@
 
 This script aims to use the subregion em file to find the points within user-defined distance from the emClarity database.
 
-Developed by Tao Ni, E-mail: taoni@hku.hk
-
-Supported by Peijun Zhang's group in Oxford University
+Developed by Tao Ni, E-mail: taoni@hku.hk. Supported by Peijun Zhang's group in Oxford University.
 
 NOTES:
 
