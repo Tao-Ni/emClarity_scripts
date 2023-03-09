@@ -22,7 +22,7 @@ template_search_bin = 4  % binning of the subregion em file.
 pixel_size = 1.34 % defined as pixel size in fixedStacks/
 cycle_number = '001' ; % define which cycle you want to expand
 stage_of_alignment = 'RawAlign' ;  % or 'Avg_geometry', 'RawAlign', 'geometry'
-use_modeltxt_file = 1;  % by default, use <subregion>_binX_display.em file
+use_modeltxt_file = 0;  % by default, use <subregion>_binX_display.em file
 min_distance_threshold = 300 % in angstrom. distance restraints
 
 %%%%%%%%%%%% probably no need to change after this line   %%%%%%%%%%%%%%%%
