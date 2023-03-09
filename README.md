@@ -1,5 +1,4 @@
 # emClarity_scripts
-scripts for emClarity
 
 This script convert the emClarity database into pyTOM *em file, for Chimera Place Object plugin. 
 The Place Object plugin can help visualize the localzation and orientation of particles in 3D, developed by Dr Qu Kun.
