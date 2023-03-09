@@ -45,5 +45,5 @@ TO RUN:
        
        min_distance_threshold = 300 % in angstrom. distance restraints
        
- 5) Run the script using MATLAB.
+ 5) Run the script using MATLAB (version after 2019).
       
