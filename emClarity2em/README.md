@@ -6,7 +6,7 @@ The Place Object plugin can help visualize the localzation and orientation of pa
 This script convert the emClarity dataset at the selected cycle to Dynamo convention first, then to pyTOM convention. Several functions from Dynamo are integrated to this script. For simplicity, only the
 coordinate, cross-correlation coefficient and orientation information are converted. Other information are not converted.
 
-Developed by Tao Ni, E-mail: taoni@hku.hk
+Developed by Tao Ni, E-mail: taoni@hku.hk. Supported by Peijun Zhang's group in Oxford University.
 
 To run the script:
 
