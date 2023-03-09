@@ -18,7 +18,7 @@ disp('<subregion>_binX_display.em')
 
 subTomoMeta = load('alpha12.mat');
 output_file = 'alpha12-300.mat'
-template_search_bin = 4  %% binning of the subregion em file.
+template_search_bin = 4  % binning of the subregion em file.
 pixel_size = 1.34 % defined as pixel size in fixedStacks/
 cycle_number = '001' ; % define which cycle you want to expand
 stage_of_alignment = 'RawAlign' ;  % or 'Avg_geometry', 'RawAlign', 'geometry'
@@ -116,7 +116,7 @@ particle_count_before_clean
 particle_count_after_clean
 
 
-%% define a function to find the nearest particles of each tomogram csv file
+%%% define a function to find the nearest particles of each tomogram csv file
 function  tomogram_outlier_removed = find_close_neighbors(csv_before_update, ...
                               model_file_txt,template_search_bin, min_distance_threshold)
     number_of_subvolumes = size(csv_before_update,1);
