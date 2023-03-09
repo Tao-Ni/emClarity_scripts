@@ -16,7 +16,7 @@ To run the script:
 
       subTomoMeta = load ('emClarity_database.mat'); % load database.
       
-      cycle_number = '009' ; % define which cycle the meta data shoudd be converted.
+      cycle_number = '001' ; % define which cycle the meta data shoudd be converted.
       
       stage_of_alignment = 'Avg_geometry'; % or 'Avg_geometry', or 'geometry', or 'RawAlign'
       
