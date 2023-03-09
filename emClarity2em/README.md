@@ -10,7 +10,7 @@ Developed by Tao Ni, E-mail: taoni@hku.hk
 
 To run the script:
 
-(1) Have an emClarity database ready, an example database is provided: Emerge2C1allpca-150A.mat
+(1) Have an emClarity database ready, an example database is provided: emClarity_database.mat
 
 (2) Fill the parameters in the script (For Example):
 
