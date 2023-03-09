@@ -15,7 +15,7 @@ To run the script:
 
 (2) Fill the parameters in the script (For Example):
 
-      subTomoMeta = load ('Emerge2C1allpca-150A.mat'); % load database.
+      subTomoMeta = load ('emClarity_database.mat'); % load database.
       
       cycle_number = '009' ; % define which cycle the meta data shoudd be converted.
       
