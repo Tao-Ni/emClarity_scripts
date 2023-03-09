@@ -21,9 +21,9 @@ TO RUN:
 
 2) Have the pyTOM (*em) files ready, or IMOD model files ( this need to convert to txt file using model2point). Name convention of files:
   
-     <subregion_name>_bin<X>_display.em
+     <subregion_name>_binX_display.em
     
-     <subregion_name>_bin<X>.txt
+     <subregion_name>_binX.txt
        
 3) Put the emClarity database and subregion files in the same directory for MATLAB
        
