@@ -15,8 +15,8 @@
 clear;
 
 %%% load emClarity database and define the cycle and stage you want work on %%%
-subTomoMeta = load ('Emerge2C1allpca-150A.mat'); % load database.
-cycle_number = '009' ; % define which cycle the meta data shoudd be converted.
+subTomoMeta = load ('emClarity_database.mat'); % load database.
+cycle_number = '001' ; % define which cycle the meta data shoudd be converted.
 stage_of_alignment = 'Avg_geometry'; % or 'Avg_geometry', or 'geometry', or 'RawAlign'
 TemplateSearch_bin = 1 ;% to generate model file at the binning of templateSearch.
 writeemClarityCsv = 0; % whether to write out csv file in emClarity format
