@@ -26,4 +26,4 @@ To run the script:
       
       writepyTOMem = 1 ;% whether to write out pyTom *em file for visualization in Chimera
       
-(3) Run the script in the MATLAB.
+(3) Run the script in the MATLAB (version after 2019).
