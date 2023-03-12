@@ -8,7 +8,7 @@ NOTES:
 
 1) if none of the  subtomogram in a subrgion is close to the points in the em file, the whole subregion will be removed (use rmfield command).
 
-2) the subtomograms which do not satisfy the restraits, will be ignored (labelled as -9999 in column 26)
+2) the subtomograms which do not satisfy the restraints, will be ignored (labelled as -9999 in column 26)
 
 3) This script is usually used after manual inspection of the subregion em files and saved as <subregion>_binX_display.em
   
