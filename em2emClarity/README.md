@@ -1,6 +1,6 @@
 # em2emClarity
 
-This script aims to use the subregion em file to find the points within user-defined distance from the emClarity database.
+This script aims to use the subregion em file to find the points within user-defined distance from the emClarity database. The subregion em file or coordinate file (txt format) contains the particle coordinates information; the script will find the closes points in the emClarity database for each particle in the subregion files.
 
 Developed by Tao Ni, E-mail: taoni@hku.hk. Supported by Peijun Zhang's group in Oxford University.
 
